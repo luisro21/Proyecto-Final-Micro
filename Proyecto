@@ -1,13 +1,14 @@
 ;*******************************************************************************                                                                           
 ;    Filename:    Proyecto Final
 ;    Autores: Luis Roberto Salazar y Daniel Hengstenberg
+;    Fecha: 23/11/18
 ;*******************************************************************************
 #include "p16f887.inc"
-######
+
 ;***************************
 ; TODO Step #2 - Configuration Word Setup
 ;***************************
-#####
+
 ; CONFIG1
 ; __config 0xFFD4
  __CONFIG _CONFIG1, _FOSC_INTRC_NOCLKOUT & _WDTE_OFF & _PWRTE_OFF & _MCLRE_OFF & _CP_OFF & _CPD_OFF & _BOREN_OFF & _IESO_OFF & _FCMEN_OFF & _LVP_OFF
