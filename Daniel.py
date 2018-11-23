@@ -2,7 +2,7 @@
 #PROYECTO NUMERO 2
 #MICROCONTROLADORES
 ######
-
+###
 #-----Importamos_librerias-----
 from tkinter import *
 import serial
