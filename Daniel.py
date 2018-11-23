@@ -1,7 +1,7 @@
 #DANIEL HENGSTENBERG 17201    |       LUIS ROBERTO 17337
 #PROYECTO NUMERO 2
 #MICROCONTROLADORES
-
+#
 
 #-----Importamos_librerias-----
 from tkinter import *
